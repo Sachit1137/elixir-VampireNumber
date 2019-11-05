@@ -8,6 +8,4 @@ The goal of this first project is to use Elixir and the actor model to build a g
 
 1. Download the file and unzip it
 
-2. Run the command: mix run project3.exs 1000 1
-
-3. For bonus part run the command: mix run project3.exs 1000 1 3
+2. Run the command: mix run proj1.exs 500000
